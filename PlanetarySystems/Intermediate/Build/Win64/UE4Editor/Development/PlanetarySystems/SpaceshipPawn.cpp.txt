@@ -1,4 +1,4 @@
-D:\GitHub\PlanetarySystems\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Development\PlanetarySystems\Definitions.PlanetarySystems.h
+D:\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Development\PlanetarySystems\Definitions.PlanetarySystems.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
@@ -10,5 +10,5 @@ C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
-D:\GitHub\PlanetarySystems\PlanetarySystems\Source\PlanetarySystems\Pawns\SpaceshipPawn.h
-D:\GitHub\PlanetarySystems\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Inc\PlanetarySystems\SpaceshipPawn.generated.h
+D:\GitHub\Test\PlanetarySystems\Source\PlanetarySystems\Pawns\SpaceshipPawn.h
+D:\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Inc\PlanetarySystems\SpaceshipPawn.generated.h

@@ -1,4 +1,14 @@
 {
 	"Targets": [
+		{
+			"Name": "PlanetarySystems",
+			"Path": "D:\\GitHub\\Test\\PlanetarySystems\\Source\\PlanetarySystems.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PlanetarySystemsEditor",
+			"Path": "D:\\GitHub\\Test\\PlanetarySystems\\Source\\PlanetarySystemsEditor.Target.cs",
+			"Type": "Editor"
+		}
 	]
 }
