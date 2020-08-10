@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\GitHub\\Test\\Test\\Source\\Test\\Test.Build.cs",
-		"D:\\GitHub\\Test\\Test\\Source\\Test.Target.cs",
-		"D:\\GitHub\\Test\\Test\\Source\\TestEditor.Target.cs"
+		"C:\\Users\\aranc\\Documents\\GitHub\\Test\\Test\\Source\\Test\\Test.Build.cs",
+		"C:\\Users\\aranc\\Documents\\GitHub\\Test\\Test\\Source\\Test.Target.cs",
+		"C:\\Users\\aranc\\Documents\\GitHub\\Test\\Test\\Source\\TestEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.3"
 }
