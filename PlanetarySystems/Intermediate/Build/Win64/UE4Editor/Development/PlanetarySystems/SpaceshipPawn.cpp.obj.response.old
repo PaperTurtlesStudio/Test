@@ -230,8 +230,8 @@
 /I Runtime\Experimental\GeometryCollectionSimulationCore\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I D:\GitHub\PlanetarySystems\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Inc\PlanetarySystems
-/I D:\GitHub\PlanetarySystems\PlanetarySystems\Source
+/I D:\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Inc\PlanetarySystems
+/I D:\GitHub\Test\PlanetarySystems\Source
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -261,12 +261,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\GitHub\PlanetarySystems\PlanetarySystems\Intermediate\Build\Win64\PlanetarySystemsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\GitHub\PlanetarySystems\PlanetarySystems\Intermediate\Build\Win64\PlanetarySystemsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\GitHub\PlanetarySystems\PlanetarySystems\Intermediate\Build\Win64\PlanetarySystemsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\GitHub\PlanetarySystems\PlanetarySystems\Source\PlanetarySystems\Pawns\SpaceshipPawn.cpp"
-/FI"D:\GitHub\PlanetarySystems\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Development\PlanetarySystems\Definitions.PlanetarySystems.h"
-/Fo"D:\GitHub\PlanetarySystems\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Development\PlanetarySystems\SpaceshipPawn.cpp.obj"
+/FI"D:\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\PlanetarySystemsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\PlanetarySystemsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\PlanetarySystemsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\GitHub\Test\PlanetarySystems\Source\PlanetarySystems\Pawns\SpaceshipPawn.cpp"
+/FI"D:\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Development\PlanetarySystems\Definitions.PlanetarySystems.h"
+/Fo"D:\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Development\PlanetarySystems\SpaceshipPawn.cpp.obj"
 /TP
 /GR-
 /W4

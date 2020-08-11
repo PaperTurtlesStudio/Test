@@ -1,7 +1,7 @@
-D:\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Development\PlanetarySystems\Definitions.PlanetarySystems.h
-D:\GitHub\Test\PlanetarySystems\Source\PlanetarySystems\GameMode\PSGameModeBase_Planet.h
+C:\Users\aranc\Documents\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Development\PlanetarySystems\Definitions.PlanetarySystems.h
+C:\Users\aranc\Documents\GitHub\Test\PlanetarySystems\Source\PlanetarySystems\GameMode\PSGameModeBase_Planet.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Inc\PlanetarySystems\PSGameModeBase_Planet.generated.h
+C:\Users\aranc\Documents\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Inc\PlanetarySystems\PSGameModeBase_Planet.generated.h

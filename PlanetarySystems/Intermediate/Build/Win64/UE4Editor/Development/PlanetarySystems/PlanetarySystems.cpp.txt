@@ -1,2 +1,2 @@
-D:\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Development\PlanetarySystems\Definitions.PlanetarySystems.h
-D:\GitHub\Test\PlanetarySystems\Source\PlanetarySystems\PlanetarySystems.h
+C:\Users\aranc\Documents\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Development\PlanetarySystems\Definitions.PlanetarySystems.h
+C:\Users\aranc\Documents\GitHub\Test\PlanetarySystems\Source\PlanetarySystems\PlanetarySystems.h
