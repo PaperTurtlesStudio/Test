@@ -1,5 +1,5 @@
-C:\Users\aranc\Documents\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Development\PlanetarySystems\Definitions.PlanetarySystems.h
+D:\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Development\PlanetarySystems\Definitions.PlanetarySystems.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\aranc\Documents\GitHub\Test\PlanetarySystems\Source\PlanetarySystems/Pawns/SpaceshipPawn.h
-C:\Users\aranc\Documents\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Inc\PlanetarySystems\SpaceshipPawn.generated.h
+D:\GitHub\Test\PlanetarySystems\Source\PlanetarySystems/Pawns/SpaceshipPawn.h
+D:\GitHub\Test\PlanetarySystems\Intermediate\Build\Win64\UE4Editor\Inc\PlanetarySystems\SpaceshipPawn.generated.h

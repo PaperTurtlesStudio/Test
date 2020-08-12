@@ -65,8 +65,5 @@ void APlayerCharacter::LookRightRate(float AxisValue)
 
 void APlayerCharacter::SwapLevel()
 {
-	if (ReadyForSpace)
-	{
-		UGameplayStatics::OpenLevel(GetWorld(), "SpaceBlocking");
-	}
+	UGameplayStatics::OpenLevel(GetWorld(), "SpaceBlocking");
 }
